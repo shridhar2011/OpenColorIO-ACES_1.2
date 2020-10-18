@@ -1,4 +1,5 @@
 This repository contains all the default color configurations, for use with
-OpenColorIO.
+OpenColorIO from ACES 1.1 and 1.2 (latest version)
+If you are searching for previous versions then visit https://github.com/colour-science/OpenColorIO-Configs for all versions
 
 Visit opencolorio.org for additional information.
